@@ -1,0 +1,2 @@
+# private_aks_cluster2
+private_aks_cluster2
